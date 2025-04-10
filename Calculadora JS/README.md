@@ -33,7 +33,12 @@ Este é um projeto básico feito com JavaScript que simula uma **calculadora sim
 ---
 
 ## 💡 Exemplo de saída no console:
-Adição: 5 + 3 = 8 Adição com += (somando 10): resultado += 10 -> 18 Subtração: 5 - 3 = 2 Subtração com -= (subtraindo 5): resultado -= 5 -> -3 Multiplicação: 5 * 3 = 15 Multiplicação com *= (multiplicando por 2): resultado *= 2 -> 30 ...
+Adição: 5 + 3 = 8
+Adição com += (somando 10): resultado += 10 -> 18
+Subtração: 5 - 3 = 2 
+Subtração com -= (subtraindo 5): resultado -= 5 -> -3 
+Multiplicação: 5 * 3 = 15
+Multiplicação com *= (multiplicando por 2): resultado *= 2 -> 30 ...
 
 
 ---
